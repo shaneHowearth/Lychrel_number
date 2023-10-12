@@ -1,0 +1,1145 @@
+####################
+Finding:  10
+Input: 10
+Input: 11
+Found: 11
+####################
+Finding:  11
+Input: 11
+Found: 11
+####################
+Finding:  12
+Input: 12
+Input: 33
+Found: 33
+####################
+Finding:  13
+Input: 13
+Input: 44
+Found: 44
+####################
+Finding:  14
+Input: 14
+Input: 55
+Found: 55
+####################
+Finding:  15
+Input: 15
+Input: 66
+Found: 66
+####################
+Finding:  16
+Input: 16
+Input: 77
+Found: 77
+####################
+Finding:  17
+Input: 17
+Input: 88
+Found: 88
+####################
+Finding:  18
+Input: 18
+Input: 99
+Found: 99
+####################
+Finding:  19
+Input: 19
+Input: 110
+Input: 121
+Found: 121
+####################
+Finding:  20
+Input: 20
+Input: 22
+Found: 22
+####################
+Finding:  21
+Input: 21
+Input: 33
+Found: 33
+####################
+Finding:  22
+Input: 22
+Found: 22
+####################
+Finding:  23
+Input: 23
+Input: 55
+Found: 55
+####################
+Finding:  24
+Input: 24
+Input: 66
+Found: 66
+####################
+Finding:  25
+Input: 25
+Input: 77
+Found: 77
+####################
+Finding:  26
+Input: 26
+Input: 88
+Found: 88
+####################
+Finding:  27
+Input: 27
+Input: 99
+Found: 99
+####################
+Finding:  28
+Input: 28
+Input: 110
+Input: 121
+Found: 121
+####################
+Finding:  29
+Input: 29
+Input: 121
+Found: 121
+####################
+Finding:  30
+Input: 30
+Input: 33
+Found: 33
+####################
+Finding:  31
+Input: 31
+Input: 44
+Found: 44
+####################
+Finding:  32
+Input: 32
+Input: 55
+Found: 55
+####################
+Finding:  33
+Input: 33
+Found: 33
+####################
+Finding:  34
+Input: 34
+Input: 77
+Found: 77
+####################
+Finding:  35
+Input: 35
+Input: 88
+Found: 88
+####################
+Finding:  36
+Input: 36
+Input: 99
+Found: 99
+####################
+Finding:  37
+Input: 37
+Input: 110
+Input: 121
+Found: 121
+####################
+Finding:  38
+Input: 38
+Input: 121
+Found: 121
+####################
+Finding:  39
+Input: 39
+Input: 132
+Input: 363
+Found: 363
+####################
+Finding:  40
+Input: 40
+Input: 44
+Found: 44
+####################
+Finding:  41
+Input: 41
+Input: 55
+Found: 55
+####################
+Finding:  42
+Input: 42
+Input: 66
+Found: 66
+####################
+Finding:  43
+Input: 43
+Input: 77
+Found: 77
+####################
+Finding:  44
+Input: 44
+Found: 44
+####################
+Finding:  45
+Input: 45
+Input: 99
+Found: 99
+####################
+Finding:  46
+Input: 46
+Input: 110
+Input: 121
+Found: 121
+####################
+Finding:  47
+Input: 47
+Input: 121
+Found: 121
+####################
+Finding:  48
+Input: 48
+Input: 132
+Input: 363
+Found: 363
+####################
+Finding:  49
+Input: 49
+Input: 143
+Input: 484
+Found: 484
+####################
+Finding:  50
+Input: 50
+Input: 55
+Found: 55
+####################
+Finding:  51
+Input: 51
+Input: 66
+Found: 66
+####################
+Finding:  52
+Input: 52
+Input: 77
+Found: 77
+####################
+Finding:  53
+Input: 53
+Input: 88
+Found: 88
+####################
+Finding:  54
+Input: 54
+Input: 99
+Found: 99
+####################
+Finding:  55
+Input: 55
+Found: 55
+####################
+Finding:  56
+Input: 56
+Input: 121
+Found: 121
+####################
+Finding:  57
+Input: 57
+Input: 132
+Input: 363
+Found: 363
+####################
+Finding:  58
+Input: 58
+Input: 143
+Input: 484
+Found: 484
+####################
+Finding:  59
+Input: 59
+Input: 154
+Input: 605
+Input: 1111
+Found: 1111
+####################
+Finding:  60
+Input: 60
+Input: 66
+Found: 66
+####################
+Finding:  61
+Input: 61
+Input: 77
+Found: 77
+####################
+Finding:  62
+Input: 62
+Input: 88
+Found: 88
+####################
+Finding:  63
+Input: 63
+Input: 99
+Found: 99
+####################
+Finding:  64
+Input: 64
+Input: 110
+Input: 121
+Found: 121
+####################
+Finding:  65
+Input: 65
+Input: 121
+Found: 121
+####################
+Finding:  66
+Input: 66
+Found: 66
+####################
+Finding:  67
+Input: 67
+Input: 143
+Input: 484
+Found: 484
+####################
+Finding:  68
+Input: 68
+Input: 154
+Input: 605
+Input: 1111
+Found: 1111
+####################
+Finding:  69
+Input: 69
+Input: 165
+Input: 726
+Input: 1353
+Input: 4884
+Found: 4884
+####################
+Finding:  70
+Input: 70
+Input: 77
+Found: 77
+####################
+Finding:  71
+Input: 71
+Input: 88
+Found: 88
+####################
+Finding:  72
+Input: 72
+Input: 99
+Found: 99
+####################
+Finding:  73
+Input: 73
+Input: 110
+Input: 121
+Found: 121
+####################
+Finding:  74
+Input: 74
+Input: 121
+Found: 121
+####################
+Finding:  75
+Input: 75
+Input: 132
+Input: 363
+Found: 363
+####################
+Finding:  76
+Input: 76
+Input: 143
+Input: 484
+Found: 484
+####################
+Finding:  77
+Input: 77
+Found: 77
+####################
+Finding:  78
+Input: 78
+Input: 165
+Input: 726
+Input: 1353
+Input: 4884
+Found: 4884
+####################
+Finding:  79
+Input: 79
+Input: 176
+Input: 847
+Input: 1595
+Input: 7546
+Input: 14003
+Input: 44044
+Found: 44044
+####################
+Finding:  80
+Input: 80
+Input: 88
+Found: 88
+####################
+Finding:  81
+Input: 81
+Input: 99
+Found: 99
+####################
+Finding:  82
+Input: 82
+Input: 110
+Input: 121
+Found: 121
+####################
+Finding:  83
+Input: 83
+Input: 121
+Found: 121
+####################
+Finding:  84
+Input: 84
+Input: 132
+Input: 363
+Found: 363
+####################
+Finding:  85
+Input: 85
+Input: 143
+Input: 484
+Found: 484
+####################
+Finding:  86
+Input: 86
+Input: 154
+Input: 605
+Input: 1111
+Found: 1111
+####################
+Finding:  87
+Input: 87
+Input: 165
+Input: 726
+Input: 1353
+Input: 4884
+Found: 4884
+####################
+Finding:  88
+Input: 88
+Found: 88
+####################
+Finding:  89
+Input: 89
+Input: 187
+Input: 968
+Input: 1837
+Input: 9218
+Input: 17347
+Input: 91718
+Input: 173437
+Input: 907808
+Input: 1716517
+Input: 8872688
+Input: 17735476
+Input: 85189247
+Input: 159487405
+Input: 664272356
+Input: 1317544822
+Input: 3602001953
+Input: 7193004016
+Input: 13297007933
+Input: 47267087164
+Input: 93445163438
+Input: 176881317877
+Input: 955594506548
+Input: 1801200002107
+Input: 8813200023188
+Found: 8813200023188
+####################
+Finding:  90
+Input: 90
+Input: 99
+Found: 99
+####################
+Finding:  91
+Input: 91
+Input: 110
+Input: 121
+Found: 121
+####################
+Finding:  92
+Input: 92
+Input: 121
+Found: 121
+####################
+Finding:  93
+Input: 93
+Input: 132
+Input: 363
+Found: 363
+####################
+Finding:  94
+Input: 94
+Input: 143
+Input: 484
+Found: 484
+####################
+Finding:  95
+Input: 95
+Input: 154
+Input: 605
+Input: 1111
+Found: 1111
+####################
+Finding:  96
+Input: 96
+Input: 165
+Input: 726
+Input: 1353
+Input: 4884
+Found: 4884
+####################
+Finding:  97
+Input: 97
+Input: 176
+Input: 847
+Input: 1595
+Input: 7546
+Input: 14003
+Input: 44044
+Found: 44044
+####################
+Finding:  98
+Input: 98
+Input: 187
+Input: 968
+Input: 1837
+Input: 9218
+Input: 17347
+Input: 91718
+Input: 173437
+Input: 907808
+Input: 1716517
+Input: 8872688
+Input: 17735476
+Input: 85189247
+Input: 159487405
+Input: 664272356
+Input: 1317544822
+Input: 3602001953
+Input: 7193004016
+Input: 13297007933
+Input: 47267087164
+Input: 93445163438
+Input: 176881317877
+Input: 955594506548
+Input: 1801200002107
+Input: 8813200023188
+Found: 8813200023188
+####################
+Finding:  99
+Input: 99
+Found: 99
+####################
+Finding:  100
+Input: 100
+Input: 101
+Found: 101
+####################
+Finding:  101
+Input: 101
+Found: 101
+####################
+Finding:  102
+Input: 102
+Input: 303
+Found: 303
+####################
+Finding:  103
+Input: 103
+Input: 404
+Found: 404
+####################
+Finding:  104
+Input: 104
+Input: 505
+Found: 505
+####################
+Finding:  105
+Input: 105
+Input: 606
+Found: 606
+####################
+Finding:  106
+Input: 106
+Input: 707
+Found: 707
+####################
+Finding:  107
+Input: 107
+Input: 808
+Found: 808
+####################
+Finding:  108
+Input: 108
+Input: 909
+Found: 909
+####################
+Finding:  109
+Input: 109
+Input: 1010
+Input: 1111
+Found: 1111
+####################
+Finding:  110
+Input: 110
+Input: 121
+Found: 121
+####################
+Finding:  111
+Input: 111
+Found: 111
+####################
+Finding:  112
+Input: 112
+Input: 323
+Found: 323
+####################
+Finding:  113
+Input: 113
+Input: 424
+Found: 424
+####################
+Finding:  114
+Input: 114
+Input: 525
+Found: 525
+####################
+Finding:  115
+Input: 115
+Input: 626
+Found: 626
+####################
+Finding:  116
+Input: 116
+Input: 727
+Found: 727
+####################
+Finding:  117
+Input: 117
+Input: 828
+Found: 828
+####################
+Finding:  118
+Input: 118
+Input: 929
+Found: 929
+####################
+Finding:  119
+Input: 119
+Input: 1030
+Input: 1331
+Found: 1331
+####################
+Finding:  120
+Input: 120
+Input: 141
+Found: 141
+####################
+Finding:  121
+Input: 121
+Found: 121
+####################
+Finding:  122
+Input: 122
+Input: 343
+Found: 343
+####################
+Finding:  123
+Input: 123
+Input: 444
+Found: 444
+####################
+Finding:  124
+Input: 124
+Input: 545
+Found: 545
+####################
+Finding:  125
+Input: 125
+Input: 646
+Found: 646
+####################
+Finding:  126
+Input: 126
+Input: 747
+Found: 747
+####################
+Finding:  127
+Input: 127
+Input: 848
+Found: 848
+####################
+Finding:  128
+Input: 128
+Input: 949
+Found: 949
+####################
+Finding:  129
+Input: 129
+Input: 1050
+Input: 1551
+Found: 1551
+####################
+Finding:  130
+Input: 130
+Input: 161
+Found: 161
+####################
+Finding:  131
+Input: 131
+Found: 131
+####################
+Finding:  132
+Input: 132
+Input: 363
+Found: 363
+####################
+Finding:  133
+Input: 133
+Input: 464
+Found: 464
+####################
+Finding:  134
+Input: 134
+Input: 565
+Found: 565
+####################
+Finding:  135
+Input: 135
+Input: 666
+Found: 666
+####################
+Finding:  136
+Input: 136
+Input: 767
+Found: 767
+####################
+Finding:  137
+Input: 137
+Input: 868
+Found: 868
+####################
+Finding:  138
+Input: 138
+Input: 969
+Found: 969
+####################
+Finding:  139
+Input: 139
+Input: 1070
+Input: 1771
+Found: 1771
+####################
+Finding:  140
+Input: 140
+Input: 181
+Found: 181
+####################
+Finding:  141
+Input: 141
+Found: 141
+####################
+Finding:  142
+Input: 142
+Input: 383
+Found: 383
+####################
+Finding:  143
+Input: 143
+Input: 484
+Found: 484
+####################
+Finding:  144
+Input: 144
+Input: 585
+Found: 585
+####################
+Finding:  145
+Input: 145
+Input: 686
+Found: 686
+####################
+Finding:  146
+Input: 146
+Input: 787
+Found: 787
+####################
+Finding:  147
+Input: 147
+Input: 888
+Found: 888
+####################
+Finding:  148
+Input: 148
+Input: 989
+Found: 989
+####################
+Finding:  149
+Input: 149
+Input: 1090
+Input: 1991
+Found: 1991
+####################
+Finding:  150
+Input: 150
+Input: 201
+Input: 303
+Found: 303
+####################
+Finding:  151
+Input: 151
+Found: 151
+####################
+Finding:  152
+Input: 152
+Input: 403
+Input: 707
+Found: 707
+####################
+Finding:  153
+Input: 153
+Input: 504
+Input: 909
+Found: 909
+####################
+Finding:  154
+Input: 154
+Input: 605
+Input: 1111
+Found: 1111
+####################
+Finding:  155
+Input: 155
+Input: 706
+Input: 1313
+Input: 4444
+Found: 4444
+####################
+Finding:  156
+Input: 156
+Input: 807
+Input: 1515
+Input: 6666
+Found: 6666
+####################
+Finding:  157
+Input: 157
+Input: 908
+Input: 1717
+Input: 8888
+Found: 8888
+####################
+Finding:  158
+Input: 158
+Input: 1009
+Input: 10010
+Input: 11011
+Found: 11011
+####################
+Finding:  159
+Input: 159
+Input: 1110
+Input: 1221
+Found: 1221
+####################
+Finding:  160
+Input: 160
+Input: 221
+Input: 343
+Found: 343
+####################
+Finding:  161
+Input: 161
+Found: 161
+####################
+Finding:  162
+Input: 162
+Input: 423
+Input: 747
+Found: 747
+####################
+Finding:  163
+Input: 163
+Input: 524
+Input: 949
+Found: 949
+####################
+Finding:  164
+Input: 164
+Input: 625
+Input: 1151
+Input: 2662
+Found: 2662
+####################
+Finding:  165
+Input: 165
+Input: 726
+Input: 1353
+Input: 4884
+Found: 4884
+####################
+Finding:  166
+Input: 166
+Input: 827
+Input: 1555
+Input: 7106
+Input: 13123
+Input: 45254
+Found: 45254
+####################
+Finding:  167
+Input: 167
+Input: 928
+Input: 1757
+Input: 9328
+Input: 17567
+Input: 94138
+Input: 177287
+Input: 960058
+Input: 1810127
+Input: 9020308
+Input: 17050517
+Input: 88555588
+Found: 88555588
+####################
+Finding:  168
+Input: 168
+Input: 1029
+Input: 10230
+Input: 13431
+Found: 13431
+####################
+Finding:  169
+Input: 169
+Input: 1130
+Input: 1441
+Found: 1441
+####################
+Finding:  170
+Input: 170
+Input: 241
+Input: 383
+Found: 383
+####################
+Finding:  171
+Input: 171
+Found: 171
+####################
+Finding:  172
+Input: 172
+Input: 443
+Input: 787
+Found: 787
+####################
+Finding:  173
+Input: 173
+Input: 544
+Input: 989
+Found: 989
+####################
+Finding:  174
+Input: 174
+Input: 645
+Input: 1191
+Input: 3102
+Input: 5115
+Found: 5115
+####################
+Finding:  175
+Input: 175
+Input: 746
+Input: 1393
+Input: 5324
+Input: 9559
+Found: 9559
+####################
+Finding:  176
+Input: 176
+Input: 847
+Input: 1595
+Input: 7546
+Input: 14003
+Input: 44044
+Found: 44044
+####################
+Finding:  177
+Input: 177
+Input: 948
+Input: 1797
+Input: 9768
+Input: 18447
+Input: 92928
+Input: 175857
+Input: 934428
+Input: 1758867
+Input: 9447438
+Input: 17794887
+Input: 96644658
+Input: 182289327
+Input: 906271608
+Input: 1712444217
+Input: 8836886388
+Found: 8836886388
+####################
+Finding:  178
+Input: 178
+Input: 1049
+Input: 10450
+Input: 15851
+Found: 15851
+####################
+Finding:  179
+Input: 179
+Input: 1150
+Input: 1661
+Found: 1661
+####################
+Finding:  180
+Input: 180
+Input: 261
+Input: 423
+Input: 747
+Found: 747
+####################
+Finding:  181
+Input: 181
+Found: 181
+####################
+Finding:  182
+Input: 182
+Input: 463
+Input: 827
+Input: 1555
+Input: 7106
+Input: 13123
+Input: 45254
+Found: 45254
+####################
+Finding:  183
+Input: 183
+Input: 564
+Input: 1029
+Input: 10230
+Input: 13431
+Found: 13431
+####################
+Finding:  184
+Input: 184
+Input: 665
+Input: 1231
+Input: 2552
+Found: 2552
+####################
+Finding:  185
+Input: 185
+Input: 766
+Input: 1433
+Input: 4774
+Found: 4774
+####################
+Finding:  186
+Input: 186
+Input: 867
+Input: 1635
+Input: 6996
+Found: 6996
+####################
+Finding:  187
+Input: 187
+Input: 968
+Input: 1837
+Input: 9218
+Input: 17347
+Input: 91718
+Input: 173437
+Input: 907808
+Input: 1716517
+Input: 8872688
+Input: 17735476
+Input: 85189247
+Input: 159487405
+Input: 664272356
+Input: 1317544822
+Input: 3602001953
+Input: 7193004016
+Input: 13297007933
+Input: 47267087164
+Input: 93445163438
+Input: 176881317877
+Input: 955594506548
+Input: 1801200002107
+Input: 8813200023188
+Found: 8813200023188
+####################
+Finding:  188
+Input: 188
+Input: 1069
+Input: 10670
+Input: 18271
+Input: 35552
+Input: 61105
+Input: 111221
+Input: 233332
+Found: 233332
+####################
+Finding:  189
+Input: 189
+Input: 1170
+Input: 1881
+Found: 1881
+####################
+Finding:  190
+Input: 190
+Input: 281
+Input: 463
+Input: 827
+Input: 1555
+Input: 7106
+Input: 13123
+Input: 45254
+Found: 45254
+####################
+Finding:  191
+Input: 191
+Found: 191
+####################
+Finding:  192
+Input: 192
+Input: 483
+Input: 867
+Input: 1635
+Input: 6996
+Found: 6996
+####################
+Finding:  193
+Input: 193
+Input: 584
+Input: 1069
+Input: 10670
+Input: 18271
+Input: 35552
+Input: 61105
+Input: 111221
+Input: 233332
+Found: 233332
+####################
+Finding:  194
+Input: 194
+Input: 685
+Input: 1271
+Input: 2992
+Found: 2992
+####################
+Finding:  195
+Input: 195
+Input: 786
+Input: 1473
+Input: 5214
+Input: 9339
+Found: 9339
